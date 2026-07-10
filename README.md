@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/eelkrammm/leetcode_adinda/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/eelkrammm/leetcode_adinda/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
